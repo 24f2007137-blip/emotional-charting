@@ -1,5 +1,5 @@
 {
-  "prompt": "a tug of war betweeen ancient kabuki actors (yakusha-e), one group with very less members the other with more, the group with less members is close to middle line and the other is distant from it, clearly vi one group with red attire and the other with blue attire,  bold lines and flat, in Japanese Edo-period woodblock prints / ukiyo-e (1603–1868) style., totally  side view from a distant view and more of a 2D drawing less of 3D ./nNegative prompt: no text, lines or diagrams or manuscripts",
+  "prompt": "a tug of war betweeen ancient kabuki actors (yakusha-e), one group with very less members the other with more, the group with less members is close to middle line and the other is distant from it, clearly vi one group with red attire and the other with blue attire,  bold lines and flat, in Japanese Edo-period woodblock prints / ukiyo-e (1603–1868) style., totally  side view from a distant view and more of a 2D drawing less of 3D .Negative prompt: no text, lines or diagrams or manuscripts",
   "model": "DALL·E 3",
   "concept": "Class Imbalance",
   "tradition_name": "Japanese Edo-period woodblock prints / ukiyo-e",
