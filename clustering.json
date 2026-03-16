@@ -1,0 +1,6 @@
+{
+  "prompt": "three groups each with three students far apart, one group wearing yellow hoodies, one group blue hoodies, and one group red hoodies, each group standing within a circle of their respective colors on a white gym floor while a teacher gently gathers the children toward the matching color groups. exact top-down drone perspective, cinematic HDR lighting, physically plausible school gym scene that looks like a real photograph. Negative prompt: no diagrams, graphs, mathematical notation, equations, or text of any kind. No floating labels, annotation overlays, or non-physical elements. No neurons, gears, glowing data flows, or generic AI metaphors.",
+  "model": "DALL·E 3",
+  "concept": "clustering",
+  "metaphor": "Children in colored hoodies represent data points moving into matching floor circles; the hoodies act as features and the circles as centroids during the assignment phase of clustering."
+}
